@@ -16,6 +16,7 @@
 		537B25FC27FA35AE00024D7C /* FacialRecognitionApp_iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537B25FB27FA35AE00024D7C /* FacialRecognitionApp_iOSTests.swift */; };
 		537B260627FA35AE00024D7C /* FacialRecognitionApp_iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537B260527FA35AE00024D7C /* FacialRecognitionApp_iOSUITests.swift */; };
 		537B260827FA35AE00024D7C /* FacialRecognitionApp_iOSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537B260727FA35AE00024D7C /* FacialRecognitionApp_iOSUITestsLaunchTests.swift */; };
+		537B261527FA397A00024D7C /* bestSoccerPlayers.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 537B261427FA397A00024D7C /* bestSoccerPlayers.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		537B260127FA35AE00024D7C /* FacialRecognitionApp-iOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "FacialRecognitionApp-iOSUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		537B260527FA35AE00024D7C /* FacialRecognitionApp_iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacialRecognitionApp_iOSUITests.swift; sourceTree = "<group>"; };
 		537B260727FA35AE00024D7C /* FacialRecognitionApp_iOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacialRecognitionApp_iOSUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		537B261427FA397A00024D7C /* bestSoccerPlayers.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bestSoccerPlayers.jpeg; path = ../../bestSoccerPlayers.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				537B25E627FA35AC00024D7C /* SceneDelegate.swift */,
 				537B25E827FA35AC00024D7C /* ViewController.swift */,
 				537B25EA27FA35AC00024D7C /* Main.storyboard */,
+				537B261427FA397A00024D7C /* bestSoccerPlayers.jpeg */,
 				537B25ED27FA35AE00024D7C /* Assets.xcassets */,
 				537B25EF27FA35AE00024D7C /* LaunchScreen.storyboard */,
 				537B25F227FA35AE00024D7C /* Info.plist */,
@@ -234,6 +237,7 @@
 				537B25F127FA35AE00024D7C /* LaunchScreen.storyboard in Resources */,
 				537B25EE27FA35AE00024D7C /* Assets.xcassets in Resources */,
 				537B25EC27FA35AC00024D7C /* Main.storyboard in Resources */,
+				537B261527FA397A00024D7C /* bestSoccerPlayers.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
